@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="#">
+    <title>Serendipity Massage &amp; Wellness</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <link rel="stylesheet" href="/flickity-docs/css/flickity-docs.css" media="screen">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+</head>
+<body>
+<!--#include file="header.html" -->
+
+
+
+
+<div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
+<img class="carousel-cell" src="photomassageD.jpg">
+<img class="carousel-cell" src="photomassageD.jpg">
+<img class="carousel-cell" src="photomassageD.jpg">
+</div>
+
+
+
+
+
+<br><br><br>
+	<div class="homeLinks wow fadeIn">
+    	<!--<div><a href="https://app.acuityscheduling.com/schedule.php?owner=20422241&fbclid=IwAR0oOeTpetbQ7q83fsPgEKPVJ-sx6Z7xNAfXacTsuz4ESfF5N39Uwt2361c"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a></div>-->
+        <!--<div class="mobileOnly">&nbsp;<br>&nbsp;</div>-->
+    	<div><a href="https://goo.gl/maps/QCivc2ZRaXXNsbM4A"><span class="button wow pulse delay-1s">DIRECTIONS</span></a></div>
+    </div>
+<br>
+
+
+
+<!--#include file="footer.html" -->
+
+  <script src="/flickity-docs/js/flickity.pkgd.min.js"></script>
+<div class="main-gallery js-flickity"
+  data-flickity-options='{ "cellAlign": "left", "contain": true }'>
+
+</body>
+</html>

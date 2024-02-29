@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="#">
+    <title>Serendipity Massage &amp; Wellness</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+</head>
+<body>
+<!--#include file="header.html" -->
+
+<input type="radio" id="trigger1" name="slider">
+<label for="trigger1"></label>
+<div class="slide bg1"></div>
+
+<input type="radio" id="trigger2" name="slider" checked autofocus>
+<label for="trigger2"></label>
+<div class="slide bg2"></div>
+
+<input type="radio" id="trigger3" name="slider">
+<label for="trigger3"></label>
+<div class="slide bg3"></div>
+
+<input type="radio" id="trigger4" name="slider">
+<label for="trigger4"></label>
+<div class="slide bg4"></div>
+
+<input type="radio" id="trigger5" name="slider">
+<label for="trigger5"></label>
+<div class="slide bg5"></div>
+
+<a target="_blank" href="https://twitter.com/kamildyrek"><svg style="width:2em;height:2em;position:fixed;top:1em;left:1em;opacity:.8;" viewBox="0 0 24 24"><path fill="#fff" d="M17.71,9.33C18.19,8.93 18.75,8.45 19,7.92C18.59,8.13 18.1,8.26 17.56,8.33C18.06,7.97 18.47,7.5 18.68,6.86C18.16,7.14 17.63,7.38 16.97,7.5C15.42,5.63 11.71,7.15 12.37,9.95C9.76,9.79 8.17,8.61 6.85,7.16C6.1,8.38 6.75,10.23 7.64,10.74C7.18,10.71 6.83,10.57 6.5,10.41C6.54,11.95 7.39,12.69 8.58,13.09C8.22,13.16 7.82,13.18 7.44,13.12C7.81,14.19 8.58,14.86 9.9,15C9,15.76 7.34,16.29 6,16.08C7.15,16.81 8.46,17.39 10.28,17.31C14.69,17.11 17.64,13.95 17.71,9.33M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" /></svg></a>
+
+
+<br><br><br>
+	<div class="homeLinks wow fadeIn">
+    	<!--<div><a href="https://app.acuityscheduling.com/schedule.php?owner=20422241&fbclid=IwAR0oOeTpetbQ7q83fsPgEKPVJ-sx6Z7xNAfXacTsuz4ESfF5N39Uwt2361c"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a></div>-->
+        <!--<div class="mobileOnly">&nbsp;<br>&nbsp;</div>-->
+    	<div><a href="https://goo.gl/maps/QCivc2ZRaXXNsbM4A"><span class="button wow pulse delay-1s">DIRECTIONS</span></a></div>
+    </div>
+<br>
+
+
+<!--<div class="section2">
+	<div class="homeserv1">
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="1.png"></div>
+            <div>Deep Tissue Massage</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="2.png"></div>
+            <div>Relaxation Massage</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="3.png"></div>
+            <div>Hot Stone Therapy</div></a>
+        </div>
+    </div>
+	<div class="homeserv1">
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="5.png"></div>
+            <div>Microdermabrasion Facial</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="6.png"></div>
+            <div>Anti-Aging Facial</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="4.png"></div>
+            <div>&amp; More...</div></a>
+        </div>
+    </div>
+</div>-->
+
+
+
+
+<!--<div class="section3 wow pulse">
+	<a href="benefits.shtml"><span class="button wow pulse delay-1s">BENEFITS</span></a>
+</div>
+
+<br>-->
+<!--<hr class="flair">-->
+<!--<hr>-->
+<!--<div class="section4">
+	<h1 class="center wow fadeIn">Gift Certificates</h1>
+    <p class="center wow fadeIn">AVAILABLE AT LOCATION</p>
+</div>-->
+
+
+
+<!--<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" src="photos/17d.jpg">
+  <img class="mobileOnly" src="photos/17m.jpg">
+  <div class="biginnerimgtext"><span class="cursive"></span></div>
+</div>-->
+
+<!--#include file="footer.html" -->
+</body>
+</html>

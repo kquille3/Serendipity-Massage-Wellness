@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Serendipity offers relaxing, deep tissue, hot stone, maternity, and migraine-managing massages.">
+    <title>Serendipity Massage &amp; Wellness | Massage</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/services.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img class="mobileOnly" alt="Hot stones at Serendipity" src="photos/DSC07986.jpg">
+  <img class="desktopOnly" alt="Hot stones at Serendipity" src="photos/DSC07oiuj986.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Massage</span></div>
+</div>
+
+<br><br><br><br>
+
+<!--<div class="section5">
+    <span class="preg center wow fadeIn">PROVIDED</span>
+	<span class="pcursive center wow fadeIn">by</span>
+    <span class="preg center wow fadeIn">CHRISTAL</span>
+    <p class="section4p center wow fadeIn">LMT<br><a class="innerlink" href="contact.shtml">All appointments with this provider need to be booked through text, e-mail, or phone call.</a></p>
+</div>-->
+
+<div class="table1">
+	<div>Relaxing</div><div class="ralign">$60/30min, $85/60min, $120/90min, $155/120min</div>
+    <p>A flowing type of massage ideal to ease everyday tension. Combinations of effleurage, kneading, and deep circular motions are used to bring you to relaxation and relieve minor pain. Pressure is adjusted to your comfort.</p>
+    <br><br>
+	<div>Deep Tissue</div><div class="ralign">$70/30min, $100/60min, $140/90min, $180/120min</div>
+    <p>A more intense massage specifically designed to relieve tight muscles, chronic muscle pain and anxiety. Slow targeted strokes and acupressure release the deepest layers of your muscles and connective tissues. Stretching of the extremities help to improve your range of motion. In this treatment the cupping technique is used to enhance circulation to your most troublesome spots. At the end a deep blue muscle rub is applied to aid in any soreness after your visit.</p>
+	<br><br>
+	<div>Ashiatsu by Nala</div><div class="ralign">$95/60min, $125/90min, $155/120min</div>
+    <p>A deep tissue compression massage through the use of the therapist's feet. The technique manipulates the deeper layers of soft tissue to help loosen the tissues, which helps with chronic pain reduction. 60 minute sessions will be reserved for specific areas of issue.</p>
+	<br><br>
+    <div>Hot Stone</div><div class="ralign">$85/45min, $135/90min</div>
+    <p>A full body massage coupled with the benefits of relaxation and the warmth of the stones. This treatment will melt all your tension away, improve your blood flow, and promote relaxation.</p>
+	<br><br>
+    <div>Deep Tissue/Hot Stone</div><div class="ralign">$90/45min, $155/90min</div>
+    <p>The amazing benefits of Deep Tissue and Hot Stone rolled into one. Your knots don't stand a chance!</p>
+	<br><br>
+    <div>Maternity</div><div class="ralign">$85/60min</div>
+	<p>A relaxing massage for all the mommies! Focusing on all the aches that mommy-hood brings, we use side lying, with pillows for support, to keep you and baby comfortable and focus on the beauty of motherhood.</p>
+    <br><br>
+    <div>Migraine Manager </div><div class="ralign">$160/90min, $180/120min</div>
+	<p>A treatment designed to put your headache to rest! Massage, hot stones, deep blue muscle rub, and coffee scrub foot treatment combined to treat and prevent migraines and headaches. Extra scalp massage and a blend of Peppermint, Rosemary, Marjoram and Thyme to ease you back into your day.</p>
+    <br><br>
+    <div>Mini Manager</div><div class="ralign">$90/45min</div>
+	<p>All the benefits of the Migraine Manager in a power treatment to get you back to being productive!</p>
+    <br><br>
+    <div>Immunity Booster</div><div class="ralign">$75/30min, $105/60min, $145/90min, $185/120min</div>
+	<p>Customize this massage as a relaxing or deep tissue! This treatment is anti-inflammatory, anti-aging, and protects you against environmental and seasonal threats. With the OnGuard essential oil blend infused in Tamanu oil, you will leave feeling energized and uplifted.</p>
+
+    <br><br><br>
+    
+    
+    
+</div>
+
+<br><br><br>
+<!--<div class="section5">
+    <span class="preg center wow fadeIn">PROVIDED</span>
+	<span class="pcursive center wow fadeIn">by</span>
+    <span class="preg center wow fadeIn">JENNIFER</span>
+    <p class="section4p center wow fadeIn">ESTHETICIAN</p>
+</div>
+
+<div class="table1">
+	<div class="bold">Skin Treatments:</div><div class="ralign">&nbsp;</div>
+	<div>Signature Facial<br>A signature facial includes deep cleansing, exfoliation, mask, and a relaxing facial massage. Well suited for all skin types.</div><div class="ralign">$55 /60 Minute Session<br>$30 /30 Minute Session</div>
+	<div>Men’s Facial<br>A relaxing facial for men addressing the concerns associated with male skin, including razor irritation and clogged pores. This includes deep cleansing, a mask, a pressure point facial massage, and a neck and shoulder massage.</div><div class="ralign">$55	/45 minutes</div>
+	<div>Back Facial<br>All the benefits of a facial for your back: deep cleansing, exfoliation, mask, and a relaxing back massage.</div><div class="ralign">$60 /45 Minute Session</div>
+	<div>Anti-Aging Facial<br>This relaxing facial gently treats concerns associated with aging skin including wrinkles, lines, and hyperpigmentation. Dermaplane is used to exfoliate the skin which is a manual exfoliation technique that removes vellus hair and dead skin. It increases absorption of topical products and immediately diminishes and softens the appearance of fine lines and wrinkles. Dermaplane creates a healthier and more radiant appearance.</div><div class="ralign">$95 /60 Minute Session<br>$55 /30 Minute Session</div>
+	<div>Microdermabrasion Facial<br>This facial removes the outermost layer of skin cells. Using a diamond covered tip, dead skin is buffed and vacuumed softening and deeply exfoliating, which softens and revitalizes the skin.</div><div class="ralign">$75 /60 Minute Session<br>$45 /30 Minute Session</div>
+	<div>Chemical Peel add on to any Facial</div><div class="ralign">$25 add on</div>
+	<div class="bold">Tint Services:</div><div class="ralign">&nbsp;</div>
+	<div>Brow Tint</div><div class="ralign">$20 /15 minute session</div>
+	<div>Lash Tint</div><div class="ralign">$25 /15 minute session</div>
+	<div class="bold">Wax Services:</div><div class="ralign">&nbsp;</div>
+	<div>Fingers/Toes</div><div class="ralign">$10</div>
+	<div>Nose</div><div class="ralign">$10</div>
+	<div>Lip</div><div class="ralign">$10</div>
+	<div>Brow</div><div class="ralign">$12</div>
+	<div>Chin</div><div class="ralign">$15</div>
+	<div>Cheeks</div><div class="ralign">$15</div>
+	<div>Full Face</div><div class="ralign">$45</div>
+	<div>Neck</div><div class="ralign">$20</div>
+	<div>Underarm</div><div class="ralign">$25</div>
+	<div>Back</div><div class="ralign">$60</div>
+	<div>Chest</div><div class="ralign">$55</div>
+	<div>Half Arm</div><div class="ralign">$35</div>
+	<div>Full Arm</div><div class="ralign">$60</div>
+	<div>Lower Leg</div><div class="ralign">$40</div>
+	<div>Full Leg</div><div class="ralign">$70</div>
+	<div>Bikini (Female)</div><div class="ralign">$45</div>
+	<div>Brazilian (Female)</div><div class="ralign">$60</div>
+	<div>Hand and Arm</div><div class="ralign">&nbsp;</div>
+	<div>Foot Massage</div><div class="ralign">&nbsp;</div>
+	<div>Neck and Shoulder Massage</div><div class="ralign">&nbsp;</div>
+	<div class="bold">Make Up:</div><div class="ralign">&nbsp;</div>
+	<div>Make Up Application</div><div class="ralign">$35</div>
+	<!--<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>
+	<div>MPS add to any service</div><div class="ralign">$10 /each</div>-->
+<!--</div>
+
+<br><br><br>-->
+<!--<div class="section5">
+    <span class="preg center wow fadeIn">PROVIDED</span>
+	<span class="pcursive center wow fadeIn">by</span>
+    <span class="preg center wow fadeIn">JULIA</span>
+    <p class="section4p center wow fadeIn">CMT/LMT<br><a class="innerlink" href="contact.shtml"><!--All appointments with this provider need to be booked through text, e-mail, or phone call.--><!--</a></p>
+</div>
+
+<div class="table1">
+	<div>Deep Tissue or Relaxation Massage</div><div class="ralign">$75 /60 minutes<br>$115 /90 minutes</div>
+	<div>Hot Stone Massage</div><div class="ralign">$125 /90 minutes</div>
+	<div>MPS add to any service</div><div class="ralign">$10</div>
+	<div>Lymph Massage</div><div class="ralign">$75 /60 minutes</div>
+	<div>Massage for TMJ</div><div class="ralign">$40 /30 minutes only or add to 60 minute massage</div>
+	<div>Energy Work:<br>
+    						&bull; Aura and Chakra Cleansing<br>
+                            &bull; Healing Touch<br>
+                            &bull; Reiki<br>
+                            &bull; Running the Bars
+                            </div><div class="ralign">$75 /60 minutes</div>
+	<div>Pregnancy Massage</div><div class="ralign">$75 /60 minutes</div>
+</div>
+
+
+
+<br>
+<br><br><br>
+
+
+<div class="section5">
+    <span class="preg center wow fadeIn">PROVIDED</span>
+	<span class="pcursive center wow fadeIn">by</span>
+    <span class="preg center wow fadeIn">MARIA</span>
+    <p class="section4p center wow fadeIn">LMT<br><!--<a class="innerlink" href="contact.shtml">All appointments with this provider need to be booked through text, e-mail, or phone call.</a>--><!--</p>
+</div>
+
+<div class="table1">
+	<div>Relaxation Massage</div><div class="ralign">$65 /60 minutes<br>$100 /90 minutes</div>
+	<div>Deep Tissue Massage</div><div class="ralign">$75 /60 minutes<br>$120 /90 minutes</div>
+</div>
+
+-->
+
+
+
+
+
+<div class="section3 wow pulse">
+	<a href="https://app.acuityscheduling.com/schedule.php?owner=20422241&fbclid=IwAR0oOeTpetbQ7q83fsPgEKPVJ-sx6Z7xNAfXacTsuz4ESfF5N39Uwt2361c"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>
+
+
+
+
+<!--#include file="footer.html" -->
+</body>
+</html>

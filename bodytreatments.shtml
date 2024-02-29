@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="#">
+    <title>Serendipity Massage &amp; Wellness | Body Treatments</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/services.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img class="mobileOnly" src="photos/DSC07986.jpg">
+  <img class="desktopOnly" src="photos/DSC07oiuj986.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Body Treatments</span></div>
+</div>
+
+<br><br><br><br>
+
+<div class="table1">
+    <br><br><br>
+	<div>The Bold and Beautiful</div><div class="ralign"><span>$160/90min, $180/120min</span><br><!--<span class="saleprice">$105/90min, $120/120min</span>--></div>
+    <p>A gentle Vitamin E rich exfoliation for sensitive skin, followed by luxurious shea body butter to leave your skin revitalized. With the combination of cardamom, ginger, and calendula, The Bold and Beautiful will heal breakouts, reduce inflammation, and protect your collagen and elastin supply. Many cultures regard this aromatic blend as a strong aphrodisiac! Perfect for date nights and self care.</p>   
+    
+</div>
+
+
+
+
+
+
+
+<br><br>
+
+
+<div class="center">To enhance your Body Treatment consider the addition of Body Buff or Hot Stones in our Add On menu</div>
+
+
+<div class="section3 wow pulse">
+	<a href="addons.shtml"><span class="button wow pulse delay-1s">ADD ONS</span></a>
+</div>
+
+<br><br>
+
+<div class="section3 wow pulse">
+	<a href="https://app.acuityscheduling.com/schedule.php?owner=20422241&fbclid=IwAR0oOeTpetbQ7q83fsPgEKPVJ-sx6Z7xNAfXacTsuz4ESfF5N39Uwt2361c"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>
+
+
+
+
+
+<!--<div class="section3 wow pulse">
+	<a href="https://app.acuityscheduling.com/schedule.php?owner=20422241&fbclid=IwAR0oOeTpetbQ7q83fsPgEKPVJ-sx6Z7xNAfXacTsuz4ESfF5N39Uwt2361c"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>-->
+
+
+
+
+<!--#include file="footer.html" -->
+</body>
+</html>

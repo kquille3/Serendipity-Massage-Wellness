@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Contact Serendipity Massage and Wellness today for your most relaxing spa experience. Massage us directly on our contact page, call us at (865) 919-8656, email us at info@serendipitywellnesstn.com, or visit us in person at 9724 Kingston Pike Suite 902 Knoxville, TN 37922.">
+    <title>Serendipity Massage &amp; Wellness | Products</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/contact.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="css/flickity-docs2.css" media="screen">
+
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" alt="Welcome desk at Serendipity" src="photos/12d.jpg">
+  <img class="mobileOnly" alt="Welcome desk at Serendipity" src="photos/12m.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Products</span></div>
+</div>
+
+
+
+
+  <div class="hero-carousel" data-flickity='{ "autoPlay": true }' data-js="hero-carousel">
+    <div class="hero-carousel__cell hero-carousel__cell--1">
+      <div class="hero-carousel__cell__content">
+                      <img src="homeslide2/product_01.jpg"><!----desktop pic----->
+      </div><!--content end-->
+    </div>
+    <div class="hero-carousel__cell hero-carousel__cell--2">
+      <div class="hero-carousel__cell__content">
+                      <img src="homeslide2/product_02.jpg"><!----desktop pic----->
+      </div>
+    </div>
+    <div class="hero-carousel__cell hero-carousel__cell--2">
+      <div class="hero-carousel__cell__content">
+                      <img src="homeslide2/product_03.jpg"><!----desktop pic----->
+      </div>
+    </div>
+    <div class="hero-carousel__cell hero-carousel__cell--2">
+      <div class="hero-carousel__cell__content">
+                      <img src="homeslide2/product_04.jpg"><!----desktop pic----->
+      </div>
+    </div>
+    <div class="hero-carousel__cell hero-carousel__cell--2">
+      <div class="hero-carousel__cell__content">
+                      <img src="homeslide2/product_05.jpg"><!----desktop pic----->
+      </div>
+    </div>
+
+  </div>
+
+
+
+<div class="bodyimg">
+
+<br><br>
+
+<div class="bodytextheading">
+Summer Dream Gift Box
+</div>
+<br>
+
+<div class="bodytextheadingprice bold">
+$250.00
+</div>
+
+<div class="pictext1">
+<p>
+Gift a loved one with the Summer Dream box this season! With the customized gift card, never have to worry if you are getting what they want!<br>
+<br>
+&bull; A customizable gift card for a mini spa day<br>
+&bull; Pocket sized hand sanitizer from Rhodes-Tec<br>
+&bull; Hand crafted Citrine Bliss soy candle from Full Moon Farm</p>
+</div>
+
+<div class="section3 wow pulse">
+	<a href="https://checkout.square.site/buy/Z6OGE63EZF5MZPTDMI6TUXVV"><span class="button wow pulse delay-1s">BUY NOW</span></a>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+<br><br><br>
+
+<!--<div class="section3 wow pulse">
+	<a href="#"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>-->
+
+
+
+<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" src="photos/16d.jpg">
+  <img class="mobileOnly" src="photos/16m.jpg">
+  <div class="biginnerimgtext"><span class="cursive"><!--Contact--></span></div>
+</div>
+
+<!--#include file="footer.html" -->
+  <script src="js/flickity-docs.min.js"></script>
+
+</body>
+</html>

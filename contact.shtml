@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Contact Serendipity Massage and Wellness today for your most relaxing spa experience. Massage us directly on our contact page, call us at (865) 919-8656, email us at info@serendipitywellnesstn.com, or visit us in person at 9724 Kingston Pike Suite 902 Knoxville, TN 37922.">
+    <title>Serendipity Massage &amp; Wellness | Contact</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/contact.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" alt="Welcome desk at Serendipity" src="photos/12d.jpg">
+  <img class="mobileOnly" alt="Welcome desk at Serendipity" src="photos/12m.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Contact</span></div>
+</div>
+
+<br><br><br>
+
+
+<div class="bodytextcontact bold">
+Serendipity Massage &amp; Wellness
+<br>
+<a onclick="mapsSelector()" href="https://www.google.com/maps/place/Serendipity+Massage+and+Wellness/@35.9052817,-84.11027,15z/data=!4m5!3m4!1s0x0:0x1c82c1259e764d59!8m2!3d35.9052817!4d-84.11027">9724 Kingston Pike Suite 902 Knoxville, TN 37922</a>
+<br>
+<a href="mailto:info@serendipitywellnesstn.com">info@serendipitywellnesstn.com</a>
+<br>
+<a href="tel:+18659198656">(865) 919-8656</a>
+</div>
+
+<br><br><br>
+
+
+<?php if(!empty($statusMsg)){ ?>
+    <p class="statusMsg <?php echo !empty($msgClass)?$msgClass:''; ?>"><?php echo $statusMsg; ?></p>
+<?php } ?>
+
+<div class="contactformchildiv">
+<form method="post" action="submit.php" enctype="multipart/form-data">
+    <div class="form-group">
+        <input type="text" name="name" class="form-control" value="" placeholder="Name" required>
+    </div><br>
+    <div class="form-group">
+        <input type="email" name="email" class="form-control" value="" placeholder="Email address" required>
+    </div><br>
+    <div class="form-group">
+        <input type="phone" name="phone" class="form-control" value="" placeholder="Phone" required>
+    </div><br>
+    <div class="form-group">
+    	<select name="service" class="form-control" value="">
+          <option value="">This message is regarding...</option>
+          <option value="This message is regarding... an appointment inquiry">an appointment inquiry</option>
+          <option value="This message is regarding... a question/more information">a question/more information</option>
+          <option value="This message is regarding... other">other</option>
+        </select>
+	</div><br>
+    <div class="form-group">
+        <textarea name="message" class="form-control" rows="10" placeholder="Message" required></textarea>
+    </div><br>
+    <!--<div class="form-group">
+        <input type="file" name="attachment" class="form-control browse">
+    </div><br>-->
+
+    <!--<div class="g-recaptcha" data-sitekey="6LeQ-bsUAAAAAHE7BDQNKoFWgeijGW_JzbniZiyu"></div>-->
+<br>
+    <div class="">
+        <input type="submit" name="submit" class="button" value="SEND">
+    </div>
+</form>
+</div>
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
+
+<!--<div class="section3 wow pulse">
+	<a href="#"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>-->
+
+
+
+<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" src="photos/16d.jpg">
+  <img class="mobileOnly" src="photos/16m.jpg">
+  <div class="biginnerimgtext"><span class="cursive"><!--Contact--></span></div>
+</div>
+
+<!--#include file="footer.html" -->
+</body>
+</html>

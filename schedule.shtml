@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Schedule online today to set up your massage or any other of our wonderful services.">
+    <title>The Massage Studio | Schedule online today to set up your massage.</title>
+	<link rel="canonical" href="https://www.massagestudiotn.com/schedule.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" class="desktopOnly" src="photos/05d.jpg">
+  <img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" class="mobileOnly" src="photos/05m.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Schedule</span></div>
+</div>
+
+<br>
+
+<div class="section3 wow pulse">
+	<a target="new" href="https://www.schedulicity.com/scheduling/TMSBNH"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>
+
+<div class="bodytext">
+<span class="bold">Cancellation Policy</span><br>
+We understand that unanticipated events happen occasionally in everyone’s life. In our desire to be effective and fair to all clients, the following policies are honored:
+<br><br>
+<span class="bold">24 hour advance notice is required when canceling an appointment.</span><br>
+This allows the opportunity for someone else to schedule an appointment. If you are unable to give us 24 hours advance notice you will be charged the <span class="bold">full amount</span> of your appointment. This amount must be paid prior to your next scheduled appointment.
+<br><br>
+<span class="bold">No-shows</span><br>
+Anyone who either forgets or consciously chooses to forgo their appointment for whatever reason will be considered a “no-show.” They will be charged for their “missed” appointment.
+<br><br>
+<span class="bold">Late Arrivals</span><br>
+If you arrive late, your session may be shortened in order to accommodate others whose appointments follow yours. Depending upon how late you arrive, your therapist will then determine if there is enough time remaining to start a treatment. Regardless of the length of the treatment actually given, <span class="bold">you will be responsible for the “full” session.</span> Out of respect and consideration to your therapist and other customers, <span class="bold">please</span> plan accordingly and be on time.
+<br><br>
+<span class="bold">We look forward to serving you!</span><br>
+</div>
+
+
+
+
+<br>
+
+<div class="section3 wow pulse">
+	<a target="new" href="https://www.schedulicity.com/scheduling/TMSBNH"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>
+
+
+
+
+<!--#include file="footer.html" -->
+</body>
+</html>

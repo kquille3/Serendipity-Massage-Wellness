@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Why should you get a massage to improve your quality of life? Read out all the benefits all our services offer!">
+    <title>The Massage Studio | Why should you get a massage to improve your quality of life?</title>
+	<link rel="canonical" href="https://www.massagestudiotn.com/benefits.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" class="desktopOnly" src="photos/08d.jpg">
+  <img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" class="mobileOnly" src="photos/08m.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Benefits of Massage</span></div>
+</div>
+
+<br><br><br><br>
+
+
+<div class="bodytext">
+    <p class="center bold">Experts estimate that upwards of ninety percent of disease is stress-related. And perhaps nothing ages us faster, internally and externally, than high stress. Massage is an effective tool for managing this stress, which translates into:</p>
+    <div class="50width">
+    <ul>
+    <li>Decreased anxiety.</li>
+    <li>Enhanced sleep quality.</li>
+    <li>Greater energy.</li>
+    <li>Improved concentration.</li>
+    <li>Increased circulation.</li>
+    <li>Reduced fatigue.</li>
+    </ul>
+    </div>
+    <p class="center bold">Massage can also help specifically address a number of health issues. Bodywork can:</p>
+    <div class="50width">
+    <ul>
+    <li>Alleviate <span class="bold">low-back pain</span> and improve range of motion.</li>
+    <li>Assist with shorter, easier labor for <span class="bold">expectant mothers</span> and shorten maternity hospital stays.</li>
+    <li>Ease <span class="bold">medication dependence.</span></li>
+    <li>Enhance <span class="bold">immunity</span> by stimulating lymph flow—the body's natural defense system.</li>
+    <li>Exercise and stretch <span class="bold">weak, tight, or atrophied muscles</span>.</li>
+    <li>Help <span class="bold">athletes</span> of any level prepare for, and recover from, strenuous workouts.</li>
+    <li>Improve the condition of the body's largest organ—the skin.</li>
+    <li>Increase <span class="bold">joint flexibility</span>.</li>
+    <li>Lessen <span class="bold">depression and anxiety</span>.</li>
+    <li>Promote tissue regeneration, reducing <span class="bold">scar tissue and stretch marks</span>.</li>
+    <li>Pump oxygen and nutrients into tissues and vital organs, improving <span class="bold">circulation</span>.</li>
+    <li>Reduce <span class="bold">postsurgery adhesions and swelling</span>.</li>
+    <li>Reduce <span class="bold">spasms and cramping</span>.</li>
+    <li>Relax and soften injured, tired, and <span class="bold">overused muscles</span>.</li>
+    <li>Release endorphins—amino acids that work as the body's natural <span class="bold">painkiller</span>.</li>
+    <li>Relieve <span class="bold">migraine</span> pain.</li>
+    </ul>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+
+<div class="section3 wow pulse">
+	<a href="schedule.shtml"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>
+
+
+
+
+<!--#include file="footer.html" -->
+</body>
+</html>

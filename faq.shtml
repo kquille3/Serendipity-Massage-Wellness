@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Check out the Frequently Asked Questions about getting a massage ranging from optional disrobing to what the different types of massages accomplish.">
+    <title>The Massage Studio | Frequently Asked Questions about getting a massage</title>
+	<link rel="canonical" href="https://www.massagestudiotn.com/faq.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" class="desktopOnly" src="photos/10d.jpg">
+  <img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" class="mobileOnly" src="photos/10m.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Frequently Asked Questions</span></div>
+</div>
+
+<br><br><br><br>
+
+<div class="bodytext">
+
+<p class="desktopOnly2">Click</p><p class="mobileOnly2">Tap</p> a question for the answer.
+
+<br><br>
+
+<div class="accordion bold">Where will my massage or bodywork session take place?</div>
+<div class="panel">
+Your massage or bodywork session will take place in a warm, comfortable, quiet room. Soft music may be played to help you relax. You will lie on a table especially designed for your comfort.
+</div>
+<div class="accordion bold">Must I be completely undressed?</div>
+<div class="panel">
+Most massage and bodywork techniques are traditionally performed with the client unclothed; however, it is entirely up to you what you want to wear. You should undress to your level of comfort. You will be properly draped during the entire session.
+</div>
+<div class="accordion bold">Will the practitioner be present when I disrobe?</div>
+<div class="panel">
+The practitioner will leave the room while you undress, relax onto the table, and cover yourself with a clean sheet or towel.
+</div>
+<div class="accordion bold">Will I be covered during the session?</div>
+<div class="panel">
+You will be properly draped at all times to keep you warm and comfortable. Only the area being worked on will be exposed.
+</div>
+<div class="accordion bold">What parts of my body will be massaged?</div>
+<div class="panel">
+A typical full-body session will include work on your back, arms, legs, feet, hands, head, neck, and shoulders.
+</div>
+<div class="accordion bold">What will the massage or bodywork feel like?</div>
+<div class="panel">
+A relaxing Swedish massage is often a baseline for clients. In a general Swedish massage, your session may start with broad, flowing strokes that will help calm your nervous system and relax exterior muscle tension. As your body becomes relaxed, pressure will gradually be increased to relax specific areas and relieve areas of muscular tension. Often, a light oil or lotion is used to allow your muscles to be massaged without causing excessive friction to the skin. The oil also helps hydrate your skin. You should communicate immediately if you feel any discomfort so that another approach may be taken. Massage and bodywork are most effective when your body is not resisting.
+</div>
+<div class="accordion bold">Are there different kinds of massage and bodywork?</div>
+<div class="panel">
+There are numerous types of massage and bodywork; various techniques utilize different strokes, including basic rubbing strokes, rocking movement, posture and movement re-education, application of pressure to specific points, and more. We can discuss which methods may be most appropriate for you.
+</div>
+<div class="accordion bold">What should I do during the massage or bodywork session?</div>
+<div class="panel">
+Prior to the massage, feel free to ask the practitioner any questions about the technique or the upcoming session. During the massage, make yourself comfortable. The practitioner will either gently move you or tell you what is needed throughout the session (such as lifting your arm). Many people just close their eyes and completely relax, communicating if/when they need more or less pressure, another blanket, or anything else relevant to the session. If you have any questions regarding the session or about the particular technique you are receiving, feel free to ask.
+</div>
+<div class="accordion bold">How will I feel after the massage or bodywork session?</div>
+<div class="panel">
+Most people feel very relaxed. Some experience freedom from long-term aches and pains developed from tension or repetitive activity. After an initial period of feeling slowed down, people often experience increased energy, heightened awareness, and greater productivity which can last for days.
+</div>
+<div class="accordion bold">What are the benefits of massage and bodywork?</div>
+<div class="panel">
+Massage and bodywork can help release chronic muscular tension and pain, improve circulation, increase joint flexibility, reduce mental and physical fatigue and stress, promote faster healing of injured muscular tissue, improve posture, and reduce blood pressure. Massage and bodywork is also known to promote better sleep, improve concentration, reduce anxiety and create an overall sense of well-being.
+</div>
+<div class="accordion bold">Are there any medical conditions that would make massage or bodywork inadvisable?</div>
+<div class="panel">
+Yes. That's why it's imperative that, before you begin your session, the practitioner asks general health questions. It is very important that you inform the practitioner of any health problems or medications you are taking. If you are under a doctor's care, it is strongly advised that you receive a written recommendation for massage or bodywork prior to any session. Depending on the condition, approval from your doctor may be required.
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<div class="section3 wow pulse">
+	<a href="schedule.shtml"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>
+
+
+
+
+<!--#include file="footer.html" -->
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
+</html>

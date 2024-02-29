@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Here at Serendipity we povide massages, body treatments, and foot soaks, all with add-on options.">
+    <title>Serendipity Massage &amp; Wellness | Menu</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/services.shtml">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 529519098 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-529519098"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', 'AW-529519098');
+</script>
+
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" alt="Woman drinking tea and relaxing at Serendipity" src="photos/DSCjm07996.jpg">
+  <img class="mobileOnly" alt="Woman drinking tea and relaxing at Serendipity" src="photos/DSC07996.jpg">
+  <div class="biginnerimgtext"><span class="cursive">Menu</span></div>
+</div>
+
+<br><br><br><br>
+
+
+
+<div class="menubuttoncont wow pulse">
+	<a href="massage.shtml"><span class="buttonmenu wow pulse delay-1s">MASSAGE</span></a><span class="mobileOnly"><br><br><br></span>
+	<a href="couplebundles.shtml"><span class="buttonmenu wow pulse delay-1s">COUPLE BUNDLES</span></a><span class="mobileOnly"><br><br><br></span>
+    <a href="bodytreatments.shtml"><span class="buttonmenu wow pulse delay-1s">BODY TREATMENTS</span></a><span class="mobileOnly"><br><br><br></span>
+</div>
+<span class="desktopOnly"><br><br><br></span>
+<div class="menubuttoncont wow pulse">
+	<a href="outcomebasedmassage.shtml"><span class="buttonmenu wow pulse delay-1s">OUTCOME BASED</span></a><span class="mobileOnly"><br><br><br></span>
+	<a href="energyhealing.shtml"><span class="buttonmenu wow pulse delay-1s">ENERGY HEALING</span></a><span class="mobileOnly"><br><br><br></span>
+    <a href="addons.shtml"><span class="buttonmenu wow pulse delay-1s">ADD ONS</span></a>
+</div>
+
+<br><br><br><br>
+
+
+<!--<div class="biginnerimgmenu wow fadeIn">
+  <img class="desktopOnly" src="photos/06d.jpg">
+  <img class="mobileOnly" src="photos/06m.jpg">
+  <div class="biginnerimgmenutext"><span class="cursive">Massage</span></div>
+</div>
+
+<br><br><br>
+
+<div class="biginnerimgmenu wow fadeIn">
+  <img class="desktopOnly" src="photos/06d.jpg">
+  <img class="mobileOnly" src="photos/06m.jpg">
+  <div class="biginnerimgmenutext"><span class="cursive">Body Treatments</span></div>
+</div>
+
+<br><br><br>
+
+<div class="biginnerimgmenu wow fadeIn">
+  <img class="desktopOnly" src="photos/06d.jpg">
+  <img class="mobileOnly" src="photos/06m.jpg">
+  <div class="biginnerimgmenutext"><span class="cursive">Foot Soak Series</span></div>
+</div>
+
+
+
+<br><br><br><br><br>
+
+<div class="section5">
+	<span class="pother center wow fadeIn">Massage</span>
+    <p class="section4p center wow fadeIn"></p>
+</div>
+
+<br><br>
+
+<div class="section5">
+	<span class="pother center wow fadeIn">Body Treatments</span>
+    <p class="section4p center wow fadeIn"></p>
+</div>
+
+<br><br>
+
+<div class="section5">
+	<span class="pother center wow fadeIn">Foot Soak Series</span>
+    <p class="section4p center wow fadeIn"></p>
+</div>
+
+<br><br>-->
+
+
+
+
+
+
+
+
+
+
+<!--#include file="footer.html" -->
+</body>
+</html>

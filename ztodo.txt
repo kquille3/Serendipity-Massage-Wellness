@@ -1,0 +1,69 @@
+
+
+upload all files
+obtain & replace colors
+obtain & replace schedule link, address, phone, email in all applicable areas
+replace canonicals
+replace header title w logo - apply new classes & media queries
+obtain & proofread about body copy - changed "client's" to "clients"
+delete lower homepage content
+replace main navigation links
+change footer
+replace all text
+create & replace favicon
+edit php
+upload, import, and apply accent font to reflect logo
+pics- obtain, edit, crop for corresponding viewports, upload & apply/replace
+add pics to above footer
+home link
+change index
+troubleshoot php
+-make email account
+-enable ssl
+
+
+edits from email ----------------------------------
+
+-bg white
+-color pics
+-text on homepage was placeholder - but removed
+-remove schedule button on home, center directions button
+-remove bottom pic on home
+-between home and schedule add Menu
+-Gift Cards page after Packages
+-Between Schedule and About add Packages
+-menu drop down w sub categories - indiv pages
+-subs
+	-Massage: List menu, schedule now button
+	-Body Treatments: coming soon, schedule now button (hide)
+	-Foot Soak Series: coming soon, schedule now button (hide)
+-Packages links
+-contact form field borders
+
+
+home hero img replace w scrolling gallery
+zoomed in pics as headers
+renamed pics in drive 
+
+
+
+answer her question " do the messages get sent to my email and then I reply from there?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

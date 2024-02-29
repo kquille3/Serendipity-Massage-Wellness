@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="#">
+    <title>Serendipity Massage &amp; Wellness</title>
+	<link rel="canonical" href="https://www.serendipitywellnesstn.com/">
+    <link rel="shortcut icon" type="image/png" href="ms.png"/>
+    <link href="massage.css" rel="stylesheet" media="screen">
+	<link href="https://fonts.googleapis.com/css?family=Kristi|Noto+Sans+KR&display=swap" rel="stylesheet"> 
+	<link rel="stylesheet" href="animate.css"> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script> new WOW().init(); </script>
+</head>
+<body>
+<!--#include file="header.html" -->
+<div class="bighomeimg wow fadeIn">
+  <img class="desktopOnly" src="photomassageD.jpg">
+  <img class="mobileOnly" src="photomassage.jpg">
+  <!--<div class="bighomeimgtext">Massage was the <span class="cursive">dream</span>...</div>-->
+<!--<div class="bighomeimgtext2 section3 wow fadeInUp delay-1s">
+	<a href="schedule.shtml"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a>
+</div>-->
+
+</div>
+
+
+
+
+<br><br><br>
+	<div class="homeLinks wow fadeIn">
+    	<!--<div><a href="https://app.acuityscheduling.com/schedule.php?owner=20422241&fbclid=IwAR0oOeTpetbQ7q83fsPgEKPVJ-sx6Z7xNAfXacTsuz4ESfF5N39Uwt2361c"><span class="button wow pulse delay-1s">SCHEDULE NOW</span></a></div>-->
+        <!--<div class="mobileOnly">&nbsp;<br>&nbsp;</div>-->
+    	<div><a href="https://goo.gl/maps/QCivc2ZRaXXNsbM4A"><span class="button wow pulse delay-1s">DIRECTIONS</span></a></div>
+    </div>
+<br>
+
+
+<!--<div class="section2">
+	<div class="homeserv1">
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="1.png"></div>
+            <div>Deep Tissue Massage</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="2.png"></div>
+            <div>Relaxation Massage</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="3.png"></div>
+            <div>Hot Stone Therapy</div></a>
+        </div>
+    </div>
+	<div class="homeserv1">
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="5.png"></div>
+            <div>Microdermabrasion Facial</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="6.png"></div>
+            <div>Anti-Aging Facial</div></a>
+        </div>
+    	<div class="homeservPicNtext wow fadeIn"><a href="services.shtml">
+            <div><img alt="The Massage Studio TN (Tennessee) located in Loudon, Loudon County owned by Christal Tarpley. Jennifer Carlton Esthetician, Julia Sauder CMT/LMT, Robin Porter LMT/ELT" src="4.png"></div>
+            <div>&amp; More...</div></a>
+        </div>
+    </div>
+</div>-->
+
+
+
+
+<!--<div class="section3 wow pulse">
+	<a href="benefits.shtml"><span class="button wow pulse delay-1s">BENEFITS</span></a>
+</div>
+
+<br>-->
+<!--<hr class="flair">-->
+<!--<hr>-->
+<!--<div class="section4">
+	<h1 class="center wow fadeIn">Gift Certificates</h1>
+    <p class="center wow fadeIn">AVAILABLE AT LOCATION</p>
+</div>-->
+
+
+
+<!--<div class="biginnerimg wow fadeIn">
+  <img class="desktopOnly" src="photos/17d.jpg">
+  <img class="mobileOnly" src="photos/17m.jpg">
+  <div class="biginnerimgtext"><span class="cursive"></span></div>
+</div>-->
+
+<!--#include file="footer.html" -->
+</body>
+</html>
